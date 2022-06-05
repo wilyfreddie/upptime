@@ -23,6 +23,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
+  theme: dark
   introTitle: "WilyFreddie's Website Monitor"
   introMessage: "Just a bunch of my sites that I want to monitor."
   navbar:
@@ -33,3 +34,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
