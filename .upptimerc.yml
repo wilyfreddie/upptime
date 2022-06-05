@@ -7,6 +7,14 @@ sites:
     url: https://movilizer.com/Portal
   - name: Movilizer MDS
     url: https://movilizer.com/mds
+  - name: Movilizer Demo Portal
+    url: https://demo.movilizer.com/Portal
+  - name: Movilizer Demo MDS
+    url: https://demo.movilizer.com/mds
+  - name: 1D+ Portal
+    url: https://one-identity-plus.com/Portal
+  - name: 1D+ Demo MDS
+    url: https://one-identity-plus.com/mds
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
