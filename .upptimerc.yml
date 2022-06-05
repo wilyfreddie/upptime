@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "WilyFreddie's Website Monitor"
-  introMessage: Just a bunch of my sites that I want to monitor. 
+  introMessage: "Just a bunch of my sites that I want to monitor."
   navbar:
     - title: Status
       href: /
