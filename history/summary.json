@@ -40,19 +40,19 @@
     "url": "https://demo.movilizer.com/Portal",
     "icon": "https://favicons.githubusercontent.com/demo.movilizer.com",
     "slug": "movilizer-demo-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 841,
-    "timeWeek": 957,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 923,
+    "timeDay": 776,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2022-06-07": 0
+      "2022-06-07": 19
     }
   },
   {
