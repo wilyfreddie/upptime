@@ -78,9 +78,9 @@
     "url": "https://one-identity-plus.com/Portal",
     "icon": "https://favicons.githubusercontent.com/one-identity-plus.com",
     "slug": "1-d-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +89,18 @@
     "timeWeek": 0,
     "timeMonth": 674,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   },
   {
     "name": "1D+ Demo MDS",
     "url": "https://one-identity-plus.com/mds",
     "icon": "https://favicons.githubusercontent.com/one-identity-plus.com",
     "slug": "1-d-demo-mds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +109,8 @@
     "timeWeek": 0,
     "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   }
 ]
