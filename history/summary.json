@@ -13,7 +13,7 @@
     "time": 647,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 535,
+    "timeMonth": 0,
     "timeYear": 647,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 118,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 92,
+    "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 854,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 640,
+    "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2022-06-07": 19
@@ -69,7 +69,7 @@
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 99,
+    "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -79,15 +79,15 @@
     "icon": "https://favicons.githubusercontent.com/one-identity-plus.com",
     "slug": "1-d-portal",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 679,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 628,
+    "timeMonth": 732,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2022-06-26": 23
@@ -99,15 +99,15 @@
     "icon": "https://favicons.githubusercontent.com/one-identity-plus.com",
     "slug": "1-d-demo-mds",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 124,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 130,
+    "timeMonth": 165,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2022-06-26": 23
